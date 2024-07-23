@@ -1,0 +1,14 @@
+*.class
+
+*.jar
+*.war
+*.ear
+
+target/
+
+**/.project
+**/.classpath
+**/.settings/
+/bin/
+blog/bin
+**/.tern-project
